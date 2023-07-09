@@ -1,8 +1,8 @@
 @media (max-width:1120px) {
 
     body::before {
-        width: 100%;
-        height: 200%;
+        width:100%;
+        height: 180%;
     }
 
     .cabecalho .logo {
